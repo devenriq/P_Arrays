@@ -1,0 +1,23 @@
+{
+  "name": "22.js-arrays",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000l\u0000a\u0000t\u0000z\u0000i\u0000_\u0000A\u0000r\u0000r\u0000a\u0000y\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octenrique/Platzi_Arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octenrique/Platzi_Arrays/issues"
+  },
+  "homepage": "https://github.com/octenrique/Platzi_Arrays#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
