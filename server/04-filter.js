@@ -45,4 +45,4 @@ const search = (query) => {
   });
 };
 
-console.log(search("Nico"));
+console.log(search("V"));
